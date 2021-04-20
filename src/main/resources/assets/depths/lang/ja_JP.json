@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "ディープストーン",
+  "block.depths.deep_stone": "Deep Stone",
   "block.depths.deep_sand": "Deep Sand",
   "block.depths.deep_soil": "Deep Soil",
-  "block.depths.corrupted_nylium": "汚染体ニリウム",
-  "block.depths.hallowed_nylium": "悪魔のニリウム",
-  "block.depths.corrupted_fungus": "汚染された菌類",
-  "block.depths.hallowed_fungus": "ハロウィン菌類",
-  "block.depths.corrupted_stem": "汚染体ステム",
-  "block.depths.hallowed_stem": "悪魔のStem",
-  "block.depths.corrupted_wart_block": "破損したWart Block",
-  "block.depths.hallowed_wart_block": "ハロウィンウォートブロック"
+  "block.depths.corrupted_nylium": "Corrupted Nylium",
+  "block.depths.hallowed_nylium": "Hallowed Nylium",
+  "block.depths.corrupted_fungus": "Corrupted Fungus",
+  "block.depths.hallowed_fungus": "Hallowed Fungus",
+  "block.depths.corrupted_stem": "Corrupted Stem",
+  "block.depths.hallowed_stem": "Hallowed Stem",
+  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
+  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
 }
