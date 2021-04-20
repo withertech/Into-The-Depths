@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Deep Stone",
-  "block.depths.deep_sand": "Deep Sand",
-  "block.depths.deep_soil": "Deep Soil",
-  "block.depths.corrupted_nylium": "Corrupted Nylium",
-  "block.depths.hallowed_nylium": "Hallowed Nylium",
-  "block.depths.corrupted_fungus": "Corrupted Fungus",
-  "block.depths.hallowed_fungus": "Hallowed Fungus",
-  "block.depths.corrupted_stem": "Corrupted Stem",
-  "block.depths.hallowed_stem": "Hallowed Stem",
-  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
-  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
+  "block.depths.deep_stone": "Глибокий камінь",
+  "block.depths.deep_sand": "Глибокий пісок",
+  "block.depths.deep_soil": "Глибокий ґрунт",
+  "block.depths.corrupted_nylium": "Спотворений Нилій",
+  "block.depths.hallowed_nylium": "Глешлай Нілій",
+  "block.depths.corrupted_fungus": "Спотворений грибок",
+  "block.depths.hallowed_fungus": "Громовий грибок",
+  "block.depths.corrupted_stem": "Спотворений штрих",
+  "block.depths.hallowed_stem": "Граничний штрих",
+  "block.depths.corrupted_wart_block": "Пошкоджений Wart блок",
+  "block.depths.hallowed_wart_block": "Світловий блок"
 }
