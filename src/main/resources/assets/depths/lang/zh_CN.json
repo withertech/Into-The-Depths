@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Deep Stone",
-  "block.depths.deep_sand": "Deep Sand",
-  "block.depths.deep_soil": "Deep Soil",
-  "block.depths.corrupted_nylium": "Corrupted Nylium",
-  "block.depths.hallowed_nylium": "Hallowed Nylium",
-  "block.depths.corrupted_fungus": "Corrupted Fungus",
-  "block.depths.hallowed_fungus": "Hallowed Fungus",
-  "block.depths.corrupted_stem": "Corrupted Stem",
-  "block.depths.hallowed_stem": "Hallowed Stem",
-  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
-  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
+  "block.depths.deep_stone": "深石头",
+  "block.depths.deep_sand": "深雪",
+  "block.depths.deep_soil": "深化泥土",
+  "block.depths.corrupted_nylium": "损毁尼利um",
+  "block.depths.hallowed_nylium": "Hallow Nylium",
+  "block.depths.corrupted_fungus": "损坏的真菌数",
+  "block.depths.hallowed_fungus": "HallowFungus",
+  "block.depths.corrupted_stem": "损毁的Stem",
+  "block.depths.hallowed_stem": "允许的Stem",
+  "block.depths.corrupted_wart_block": "损坏的瓦特块",
+  "block.depths.hallowed_wart_block": "HallowWart 块"
 }
