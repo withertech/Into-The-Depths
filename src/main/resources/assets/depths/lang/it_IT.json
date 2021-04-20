@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Pietra Profonda",
-  "block.depths.deep_sand": "Sabbia Profonda",
-  "block.depths.deep_soil": "Terreno Profondo",
-  "block.depths.corrupted_nylium": "Nylium Corrotto",
-  "block.depths.hallowed_nylium": "Nylium Nascosto",
-  "block.depths.corrupted_fungus": "Fungo Corrotto",
-  "block.depths.hallowed_fungus": "Fungo Nascosto",
-  "block.depths.corrupted_stem": "Stemma Corrotto",
-  "block.depths.hallowed_stem": "Stemma Nascosto",
-  "block.depths.corrupted_wart_block": "Blocco Di Verruca Corrotto",
-  "block.depths.hallowed_wart_block": "Blocco Verruca Hallowed"
+  "block.depths.deep_stone": "Deep Stone",
+  "block.depths.deep_sand": "Deep Sand",
+  "block.depths.deep_soil": "Deep Soil",
+  "block.depths.corrupted_nylium": "Corrupted Nylium",
+  "block.depths.hallowed_nylium": "Hallowed Nylium",
+  "block.depths.corrupted_fungus": "Corrupted Fungus",
+  "block.depths.hallowed_fungus": "Hallowed Fungus",
+  "block.depths.corrupted_stem": "Corrupted Stem",
+  "block.depths.hallowed_stem": "Hallowed Stem",
+  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
+  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
 }
