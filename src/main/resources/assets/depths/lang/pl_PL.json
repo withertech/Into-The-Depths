@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Głębokie kamienie",
-  "block.depths.deep_sand": "Głęboki piasek",
-  "block.depths.deep_soil": "Głęboka gleba",
-  "block.depths.corrupted_nylium": "Skażony Nylium",
-  "block.depths.hallowed_nylium": "Hallowowy Nyl",
-  "block.depths.corrupted_fungus": "Skażony grzyb",
-  "block.depths.hallowed_fungus": "Uczciwy grzyb",
-  "block.depths.corrupted_stem": "Skażona złoto",
-  "block.depths.hallowed_stem": "Styczeń Hallowa",
-  "block.depths.corrupted_wart_block": "Zepsuty blok Warta",
-  "block.depths.hallowed_wart_block": "Gorący blok Warta"
+  "block.depths.deep_stone": "Deep Stone",
+  "block.depths.deep_sand": "Deep Sand",
+  "block.depths.deep_soil": "Deep Soil",
+  "block.depths.corrupted_nylium": "Corrupted Nylium",
+  "block.depths.hallowed_nylium": "Hallowed Nylium",
+  "block.depths.corrupted_fungus": "Corrupted Fungus",
+  "block.depths.hallowed_fungus": "Hallowed Fungus",
+  "block.depths.corrupted_stem": "Corrupted Stem",
+  "block.depths.hallowed_stem": "Hallowed Stem",
+  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
+  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
 }
