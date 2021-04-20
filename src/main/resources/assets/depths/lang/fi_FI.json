@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Deep Stone",
-  "block.depths.deep_sand": "Deep Sand",
-  "block.depths.deep_soil": "Deep Soil",
-  "block.depths.corrupted_nylium": "Corrupted Nylium",
-  "block.depths.hallowed_nylium": "Hallowed Nylium",
-  "block.depths.corrupted_fungus": "Corrupted Fungus",
-  "block.depths.hallowed_fungus": "Hallowed Fungus",
-  "block.depths.corrupted_stem": "Corrupted Stem",
-  "block.depths.hallowed_stem": "Hallowed Stem",
-  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
-  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
+  "block.depths.deep_stone": "Syvä Kivi",
+  "block.depths.deep_sand": "Syvä Hiekka",
+  "block.depths.deep_soil": "Syvä Maaperä",
+  "block.depths.corrupted_nylium": "Vioittunut Nylium",
+  "block.depths.hallowed_nylium": "Kielletty Nylium",
+  "block.depths.corrupted_fungus": "Vioittunut Sieni",
+  "block.depths.hallowed_fungus": "Sallitut Sienet",
+  "block.depths.corrupted_stem": "Vioittunut Varsi",
+  "block.depths.hallowed_stem": "Sallittu Varsi",
+  "block.depths.corrupted_wart_block": "Vioittunut Wart Block",
+  "block.depths.hallowed_wart_block": "Sallittu Wart Block"
 }
