@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Deep Stone",
-  "block.depths.deep_sand": "Deep Sand",
-  "block.depths.deep_soil": "Deep Soil",
-  "block.depths.corrupted_nylium": "Corrupted Nylium",
+  "block.depths.deep_stone": "Dyp stein",
+  "block.depths.deep_sand": "Dyp sand",
+  "block.depths.deep_soil": "Dyp jord",
+  "block.depths.corrupted_nylium": "Ødelagt Nylium",
   "block.depths.hallowed_nylium": "Hallowed Nylium",
-  "block.depths.corrupted_fungus": "Corrupted Fungus",
-  "block.depths.hallowed_fungus": "Hallowed Fungus",
-  "block.depths.corrupted_stem": "Corrupted Stem",
+  "block.depths.corrupted_fungus": "Ødelagt Sopp",
+  "block.depths.hallowed_fungus": "Skadet Sopp",
+  "block.depths.corrupted_stem": "Ødelagt Stem",
   "block.depths.hallowed_stem": "Hallowed Stem",
-  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
-  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
+  "block.depths.corrupted_wart_block": "Ødelagt vorteblokk",
+  "block.depths.hallowed_wart_block": "Hallowed Wart blokk"
 }
