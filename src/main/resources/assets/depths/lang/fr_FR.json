@@ -1,13 +1,13 @@
 {
-  "block.depths.deep_stone": "Pierre profonde",
-  "block.depths.deep_sand": "Sable profonde",
-  "block.depths.deep_soil": "Sol profond",
-  "block.depths.corrupted_nylium": "Nylium corrompu",
-  "block.depths.hallowed_nylium": "Nylium sacré",
-  "block.depths.corrupted_fungus": "Champignon Corrompu",
-  "block.depths.hallowed_fungus": "Champignon sacré",
-  "block.depths.corrupted_stem": "Stem Corrompu",
-  "block.depths.hallowed_stem": "Tige sacrée",
-  "block.depths.corrupted_wart_block": "Bloc de Verrerie Corrompu",
-  "block.depths.hallowed_wart_block": "Bloc de verrues sacrées"
+  "block.depths.deep_stone": "Deep Stone",
+  "block.depths.deep_sand": "Deep Sand",
+  "block.depths.deep_soil": "Deep Soil",
+  "block.depths.corrupted_nylium": "Corrupted Nylium",
+  "block.depths.hallowed_nylium": "Hallowed Nylium",
+  "block.depths.corrupted_fungus": "Corrupted Fungus",
+  "block.depths.hallowed_fungus": "Hallowed Fungus",
+  "block.depths.corrupted_stem": "Corrupted Stem",
+  "block.depths.hallowed_stem": "Hallowed Stem",
+  "block.depths.corrupted_wart_block": "Corrupted Wart Block",
+  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
 }
