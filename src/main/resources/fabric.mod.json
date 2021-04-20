@@ -28,6 +28,7 @@
   "depends": {
     "fabricloader": ">=0.11.3",
     "fabric": "*",
+    "imm_ptl_core": "*",
     "minecraft": "1.16.5"
   }
 }

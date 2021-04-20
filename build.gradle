@@ -11,7 +11,10 @@ version = project.mod_version
 group = project.maven_group
 repositories {
     maven {
-        url 'https://jitpack.io'
+        url = 'https://jitpack.io'
+    }
+    maven {
+        url = "https://minecraft.guntram.de/maven/"
     }
 }
 dependencies {
@@ -26,6 +29,8 @@ dependencies {
         exclude(group: "net.fabricmc.fabric-api")
     }
     include 'com.github.qouteall.ImmersivePortalsMod:imm_ptl_core:v0.90-1.16'
+    modImplementation "de.guntram.mcmod:crowdin-translate:1.2"
+    include "de.guntram.mcmod:crowdin-translate:1.2"
     // PSA: Some older mods, compiled on Loom 0.2.1, might have outdated Maven POMs.
     // You may need to force-disable transitiveness on them.
 }
