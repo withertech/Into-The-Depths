@@ -1,0 +1,16 @@
+{
+  "name": "deep_caves",
+  "ultrawarm": false,
+  "natural": false,
+  "coordinate_scale": 16.0,
+  "has_skylight": false,
+  "has_ceiling": true,
+  "ambient_light": 0.2,
+  "piglin_safe": false,
+  "bed_works": false,
+  "respawn_anchor_works": true,
+  "logical_height": 128,
+  "has_raids": false,
+  "infiniburn": "minecraft:infiniburn_nether",
+  "effects": "minecraft:the_nether"
+}

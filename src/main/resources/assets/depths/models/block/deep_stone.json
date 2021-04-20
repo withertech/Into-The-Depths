@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "depths:block/deep_stone_top",
+    "side": "depths:block/deep_stone"
+  }
+}
+

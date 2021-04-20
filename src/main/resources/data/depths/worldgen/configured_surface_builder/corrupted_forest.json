@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "depths:corrupted_nylium"
+    },
+    "under_material": {
+      "Name": "depths:deep_stone"
+    },
+    "underwater_material": {
+      "Name": "depths:corrupted_wart_block"
+    }
+  },
+  "type": "minecraft:nether_forest"
+}

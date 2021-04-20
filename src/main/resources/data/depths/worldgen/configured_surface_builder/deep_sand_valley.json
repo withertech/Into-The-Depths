@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "depths:deep_sand"
+    },
+    "under_material": {
+      "Name": "depths:deep_sand"
+    },
+    "underwater_material": {
+      "Name": "depths:deep_sand"
+    }
+  },
+  "type": "depths:deep_sand_valley"
+}

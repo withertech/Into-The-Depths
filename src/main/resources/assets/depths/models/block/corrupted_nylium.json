@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "depths:block/corrupted_nylium",
+    "bottom": "depths:block/deep_stone_top",
+    "side": "depths:block/corrupted_nylium_side"
+  }
+}
+

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "depths",
+  "version": "${version}",
+  "name": "Into The Depths",
+  "description": "Ever wonder what's below the nether? Is it more void? Nope, an entire world to explore!",
+  "authors": [
+    "Witherking25"
+  ],
+  "contact": {
+    "website": "https://github.com/withertech",
+    "repo": "https://github.com/withertech/Into-The-Depths"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/depths/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.withertech.depths.client.DepthsClient"
+    ],
+    "main": [
+      "com.withertech.depths.Depths"
+    ]
+  },
+  "mixins": [
+    "depths.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

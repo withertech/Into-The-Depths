@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "depths:block/hallowed_stem",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "depths:block/hallowed_stem"
+    },
+    "axis=z": {
+      "model": "depths:block/hallowed_stem",
+      "x": 90
+    }
+  }
+}

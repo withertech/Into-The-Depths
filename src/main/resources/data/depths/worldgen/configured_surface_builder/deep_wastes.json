@@ -1,0 +1,14 @@
+{
+  "config": {
+    "top_material": {
+      "Name": "depths:deep_stone"
+    },
+    "under_material": {
+      "Name": "depths:deep_stone"
+    },
+    "underwater_material": {
+      "Name": "depths:deep_stone"
+    }
+  },
+  "type": "minecraft:nether"
+}
