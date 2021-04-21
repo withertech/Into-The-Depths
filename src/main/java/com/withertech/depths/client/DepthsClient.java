@@ -1,7 +1,6 @@
 package com.withertech.depths.client;
 
 import com.withertech.depths.init.ModBlocks;
-import de.guntram.mcmod.crowdintranslate.CrowdinTranslate;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
@@ -16,7 +15,5 @@ public class DepthsClient implements ClientModInitializer
 	{
 		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.CORRUPTED_FUNGUS, RenderLayer.getCutout());
 		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.HALLOWED_FUNGUS, RenderLayer.getCutout());
-
-		CrowdinTranslate.downloadTranslations("depths");
 	}
 }
