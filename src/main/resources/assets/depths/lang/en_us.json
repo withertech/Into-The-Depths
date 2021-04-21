@@ -9,5 +9,6 @@
   "block.depths.corrupted_stem": "Corrupted Stem",
   "block.depths.hallowed_stem": "Hallowed Stem",
   "block.depths.corrupted_wart_block": "Corrupted Wart Block",
-  "block.depths.hallowed_wart_block": "Hallowed Wart Block"
+  "block.depths.hallowed_wart_block": "Hallowed Wart Block",
+  "entity.depths.soul_blaze": "Soul Blaze"
 }

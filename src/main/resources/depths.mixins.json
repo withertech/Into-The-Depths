@@ -4,6 +4,7 @@
   "package": "com.withertech.depths.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "EntityRenderDispatcherMixin"
   ],
   "client": [
   ],

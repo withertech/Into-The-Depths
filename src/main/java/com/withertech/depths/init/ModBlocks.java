@@ -3,9 +3,11 @@ package com.withertech.depths.init;
 import com.withertech.depths.blocks.DeepFungusBlock;
 import com.withertech.depths.blocks.DeepNyliumBlock;
 import com.withertech.depths.blocks.DeepStoneBlock;
+import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
+import net.minecraft.client.render.RenderLayer;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.sound.BlockSoundGroup;
@@ -35,6 +37,12 @@ public class ModBlocks
 	{
 		registerBlocks();
 		registerItems();
+	}
+
+	public static void registerClient()
+	{
+		BlockRenderLayerMap.INSTANCE.putBlock(CORRUPTED_FUNGUS, RenderLayer.getCutout());
+		BlockRenderLayerMap.INSTANCE.putBlock(HALLOWED_FUNGUS, RenderLayer.getCutout());
 	}
 
 	private static void registerBlocks()
